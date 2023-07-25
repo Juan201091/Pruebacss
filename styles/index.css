@@ -1,0 +1,43 @@
+.subtitulo{
+    font-size: 2rem;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: indianred;
+    -webkit-text-fill-color: black;
+    margin: 10px;
+}
+.contenedor{
+    max-width: 100%;
+    max-height: 100%;
+    padding: 10px;
+    overflow: hidden;
+}
+h3{
+    color: white;
+    width: fit-content;
+}
+.imagen{
+    float:right;
+    margin: 0 0 20px 20px;
+    max-width: 25%;
+}
+.imagen2{
+    float:left;
+    margin: 0 20px 20px 0;
+    max-width: 25%;
+}
+
+#pespecial{
+    position: relative;
+    width: 250px;
+    overflow: hidden;
+    left: 315px;
+}
+.tituloArticle{
+    font-size: 2rem;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: indianred;
+    -webkit-text-fill-color: black;
+}
+p{
+font: 1em sans-serif;
+}

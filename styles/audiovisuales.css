@@ -1,0 +1,12 @@
+.video{
+    text-align: center;
+    margin-top: 10px;
+}
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
